@@ -3,7 +3,7 @@
   "displayName": "Dev Notes",
   "description": "Sticky notes inside VS Code — capture questions and track them across meetings",
   "version": "1.0.0",
-  "publisher": "thilina-jayaranga",
+  "publisher": "hktjayaranga-dev",
   "icon": "media/icon.png",
   "repository": {
     "type": "git",
